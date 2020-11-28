@@ -6,6 +6,8 @@
 
 * Work as the Chief Data Scientist for city's school district
 * Help the  school board and mayor make strategic decisions regarding future school budgets and priorities.
+* Analyze the district-wide standardized test results.
+* Aggravate the data to showcase obvious trends in school performance.
 
 ### Built With
 
